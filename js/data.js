@@ -303,7 +303,7 @@ const villages = [
     dataTooltip: 'Ясень',
     desc: 'В Ясене на протяжении 1941-1942 гг. находилось гетто.Было убиты около 150 евреев',
     img: './image/jasen.jpg',
-    link: 'https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D1%81%D1%82_%D0%B2_%D0%9E%D1%81%D0%B8%D0%BF%D0%BE%D0%B2%D0%B8%D1%87%D1%81%D0%BA%D0%BE%D0%BC_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B5',
+    link: 'https://vtoraya-literatura.com/pdf/smilovitsky_katastrofa_evreev_v_belorussii_1941-44_2000__ocr.pdf',
     regionId: 3,
     class: 'circle jasen',
   },
